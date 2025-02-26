@@ -10,7 +10,7 @@ This is a **Finance & Investment Assistant Chatbot** powered by **Chatbase**, us
 - Lightweight **HTML iframe** integration
 
 ## 📄 How to Use
-1. Open the **Live Demo** link.
+1. Open the **[Live Demo](https://hdomadia7601.github.io/Stock_bot/)** link.
 2. Start chatting with the bot for finance & investment insights!
 
 ## 🛠️ Deployment
